@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/*
+    id - #
+    class - .
+*/
+
+body {
+    background-color: rgb(231, 248, 231);
+    font-family: Arial;
+}
+
+h1 {
+    color: rgb(0, 209, 0);
+}
+
+h1#principal {
+    text-align: center;
+    background-color: rgb(0, 209, 0);
+    color: white;
+}
+
+h2 {
+    color: rgb(0, 100, 0);
+}
