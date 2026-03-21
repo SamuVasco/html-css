@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body {
+            font: normal normal 18px Arial, sans-serif;
+        }
+
+        a {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: blue;
+        }
+
+        a:active {
+            color: purple;
+        }
+
+        a::after {
+            content: ' [link]';
+            text-decoration: none;
+            font-weight: normal;
+            color: lightgray;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando links</h1>
+    <ul>
+        <li><a href="https://github.com/SamuVasco" target="_blank">Github</a></li>
+        <li><a href="https://www.youtube.com" target="_blank">Youtube</a></li>
+        <li><a href="https://www.cursoemvideo.com" target="_blank">Curso em video</a></li>
+    </ul>
+</body>
+</html>
