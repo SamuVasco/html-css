@@ -3,4 +3,4 @@ Curso de HTML5 e CSS3 do Curso em Video
 
 Estou aprendendo a criar sites, git e github
 
-<a href="https://samuvasco.github.io/html-css/exercicios/ex001/index.html" target="_blank">Exercicio 01</a>
+<a href="desafios/d010/estilo desafios/d010/fontes desafios/d010/imagens desafios/d010/android.html" target="_blank">Projeto site Android</a>
